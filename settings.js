@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
+global.owner = ['94781516414']
+global.premium = ['94781516414']
+global.ownernomer = '94781516414'
+global.ownername = '𝙻𝚊𝚔𝚜𝚑𝚊𝚗'
+global.botname = '[😈𝐁𝐨𝐭 𝐅𝐥𝐚𝐬𝐡]'
+global.footer = '</> 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 𝙵𝚕𝚊𝚜𝚑 𝙱𝚘𝚝 </>️ ▷'
+global.ig = 'https://youtube.com/channel/UCj3NDCWSrm4AC_YyHo1OWBA'
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.author = 'ШHłТΞ HΛϾКΞЯS'
+global.sc = 'https://youtube.com/channel/UCj3NDCWSrm4AC_YyHo1OWBA'
+global.myweb = 'https://youtube.com/channel/UCj3NDCWSrm4AC_YyHo1OWBA'
+global.packname = '[ƒℓαѕн вσт😈]'
+global.author = '𝙻𝚊𝚔𝚜𝚑𝚊𝚗'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
 global.sp = '⭔'
